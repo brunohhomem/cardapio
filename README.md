@@ -1,4 +1,4 @@
-# Aplicação FullStack do zero.
+# Aplicação FullStack do zero - Back end do Cardapio.
 
 Projeto criado a partir das aulas da @Fernanda-Kipper
 
